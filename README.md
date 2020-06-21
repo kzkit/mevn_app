@@ -1,4 +1,4 @@
-#This is a simple Post It Fullstack MEVN app.
+# This is a simple Post It Fullstack MEVN app.
 
 ## How to install?
 
